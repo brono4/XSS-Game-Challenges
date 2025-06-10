@@ -1,5 +1,16 @@
 # 🛡️ XSS Game Challenges: Comprehensive Solutions & Advanced Techniques
 
+<!-- 
+description: XSS Challenges and solutions for learning web security and bug bounty. Practice real-world XSS attacks.
+
+keywords: XSS, Cross Site Scripting, bug bounty, cyber security, CTF, XSS challenges, XSS labs, ethical hacking, sudo.co.il ,solution ,solution of sudo.co.il
+-->
+<p align="center">
+  <img src="https://github.com/brono4/XSS-Game-Challenges/blob/main/xss.png" alt="XSS Challenge">
+</p>
+
+
+
 ## 📑 Table of Contents
 - [🌐 Introduction](#-introduction)
 - [🏆 Basic Challenges (Levels 1-4)](#-basic-challenges-levels-1-4)
